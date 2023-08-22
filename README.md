@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/mohsinraz_" target="blank"><img src="https://img.shields.io/twitter/follow/mohsinraz_?logo=twitter&style=for-the-badge" alt="mohsinraz_" /></a> </p>
 
-- 🔭 I’m currently working on **Blockchain DApps**
+- 🔭 I’m currently working on ** Headless Ecommerce technologies**
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **AI, LangChain**
 
 - 👨‍💻 All of my projects are available at [https://mohsincodes.vercel.app/](https://mohsincodes.vercel.app/)
 
@@ -18,7 +18,7 @@
 <p align="left">
 <a href="https://twitter.com/mohsin_codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohsinraz_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mohsinraz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohsinraz" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@codingaura" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@mohsinraz" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@codingaura" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@mohsinraz" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
