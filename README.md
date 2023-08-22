@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/mohsinraz_" target="blank"><img src="https://img.shields.io/twitter/follow/mohsinraz_?logo=twitter&style=for-the-badge" alt="mohsinraz_" /></a> </p>
 
-- 🔭 I’m currently working on ** Headless Ecommerce technologies**
+- 🔭 I’m currently working on **Headless Ecommerce technologies**
 
 - 🌱 I’m currently learning **AI, LangChain**
 
