@@ -8,17 +8,17 @@
 
 <p align="left"> <a href="https://twitter.com/mohsin_codes" target="blank"><img src="https://img.shields.io/twitter/follow/mohsinraz_?logo=twitter&style=for-the-badge" alt="mohsin_codes" /></a> </p>
 
-- 🔭 I’m currently working on **Headless Ecommerce technologies**
+- 🔭 I’m currently working on **GenAI Automation technologies**
 
-- 🌱 I’m currently learning **AI, LangChain**
+- 🌱 I’m currently learning about ** LLMs, CrewAI, LangGraph**
 
-- 👨‍💻 All of my projects are available at [https://mohsincodes.vercel.app/](https://mohsincodes.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://mohsinraz.vercel.app/](https://mohsinraz.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mohsin_codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohsinraz_" height="30" width="40" /></a>
+<a href="https://twitter.com/mohsincodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohsinraz_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mohsinraz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohsinraz" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@codingaura" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@mohsinraz" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@mohsinraz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@mohsinraz" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
