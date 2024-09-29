@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **GenAI Automation technologies**
 
-- 🌱 I’m currently learning about ** LLMs, CrewAI, LangGraph**
+- 🌱 I’m currently learning about **LLMs, , LangGraph**
 
 - 👨‍💻 All of my projects are available at [https://mohsinraz.vercel.app/](https://mohsinraz.vercel.app/)
 
@@ -18,7 +18,7 @@
 <p align="left">
 <a href="https://twitter.com/mohsincodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohsinraz_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mohsinraz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohsinraz" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@mohsinraz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@mohsinraz" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@PenguinTriedCoding" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@mohsinraz" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
