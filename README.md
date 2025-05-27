@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Mohsin Raz</h1>
 <h3 align="center">A passionate Web3 developer from Pakistan</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/720/0*7Q3yvSIv_t0ioJ-Z.gif">
+<img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/v2/D4D16AQHueyVMn_NnIA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724156107352?e=1753920000&v=beta&t=bo-NsvQ8oyoUyOJlmrOCe58BAXm9HfaLB6Eqk-50GHQ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohsinraz3&label=Profile%20views&color=0e75b6&style=flat" alt="mohsinraz3" /> </p>
 
@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mohsincodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohsinraz_" height="30" width="40" /></a>
+<a href="https://twitter.com/mohsinraz_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohsinraz_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mohsinraz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohsinraz" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@mohsin_raz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@mohsinraz" height="30" width="40" /></a>
 </p>
