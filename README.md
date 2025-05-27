@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Mohsin Raz</h1>
 <h3 align="center">A passionate Web3 developer from Pakistan</h3>
-<img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/v2/D4D16AQHueyVMn_NnIA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724156107352?e=1753920000&v=beta&t=bo-NsvQ8oyoUyOJlmrOCe58BAXm9HfaLB6Eqk-50GHQ">
+<img align="right" alt="Coding" height="350" width="1400" src="https://media.licdn.com/dms/image/v2/D4D16AQHueyVMn_NnIA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724156107352?e=1753920000&v=beta&t=bo-NsvQ8oyoUyOJlmrOCe58BAXm9HfaLB6Eqk-50GHQ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohsinraz3&label=Profile%20views&color=0e75b6&style=flat" alt="mohsinraz3" /> </p>
 
