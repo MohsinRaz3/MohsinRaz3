@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning about **LLMs, , LangGraph**
 
-- 👨‍💻 All of my projects are available at [https://mohsinraz.vercel.app/](https://mohsinraz.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://mohsinraz.me](https://mohsinraz.me)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
