@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Mohsin Raz</h1>
 <h3 align="center">A passionate Web3 developer from Pakistan</h3>
-<img align="right" alt="Coding"  width="1400" src="https://raw.githubusercontent.com/MohsinRaz3/Books/refs/heads/master/bannerlinkedin.jpeg">
+<img align="right" alt="Coding"  width="1400" src="[https://raw.githubusercontent.com/MohsinRaz3/Books/refs/heads/master/bannerlinkedin.jpeg](https://raw.githubusercontent.com/MohsinRaz3/Books/refs/heads/master/linkedin%20bannerv2.png)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohsinraz3&label=Profile%20views&color=0e75b6&style=flat" alt="mohsinraz3" /> </p>
 
