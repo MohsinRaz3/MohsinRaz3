@@ -10,7 +10,7 @@ Focused on full-stack development, autonomous workflows, developer tools and clo
 </p>
 
 <p align="center">
-  <a href="https://mohsinraz.me" target="_blank">
+  <a href="https://mohsinraz.dev" target="_blank">
     Portfolio
   </a>
   •
@@ -32,7 +32,7 @@ Focused on full-stack development, autonomous workflows, developer tools and clo
 - 🔭 Building full-stack products, automation systems and LLM workflows
 - 🌱 Exploring LangGraph, multi-agent systems and scalable backend architecture
 - ⚡ Working with React, Next.js, FastAPI, Supabase, Docker and cloud infrastructure
-- 👨‍💻 Portfolio: <a href="https://mohsinraz.me">mohsinraz.me</a>
+- 👨‍💻 Portfolio: <a href="https://mohsinraz.dev">mohsinraz.dev</a>
 
 ---
 ## Connect With Me
