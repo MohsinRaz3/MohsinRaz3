@@ -50,6 +50,7 @@ Focused on full-stack development, autonomous workflows, developer tools and clo
   
 
 </p>
+
 ---
 
 ## Tech Stack
